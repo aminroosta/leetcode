@@ -17,7 +17,7 @@
 |X| 13   | Roman to Integer                                                                    |    55.6% | Easy       |
 |X| 14   | Longest Common Prefix                                                               |    35.3% | Easy       |
 |X| 15   | 3Sum                                                                                |    26.7% | Medium     |
-| | 16   | 3Sum Closest                                                                        |    46.0% | Medium     |
+|X| 16   | 3Sum Closest                                                                        |    46.0% | Medium     |
 | | 17   | Letter Combinations of a Phone Number                                               |    46.6% | Medium     |
 | | 18   | 4Sum                                                                                |    33.5% | Medium     |
 | | 19   | Remove Nth Node From End of List                                                    |    35.2% | Medium     |
