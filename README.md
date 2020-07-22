@@ -18,7 +18,7 @@
 |X| 14   | Longest Common Prefix                                                               |    35.3% | Easy       |
 |X| 15   | 3Sum                                                                                |    26.7% | Medium     |
 |X| 16   | 3Sum Closest                                                                        |    46.0% | Medium     |
-| | 17   | Letter Combinations of a Phone Number                                               |    46.6% | Medium     |
+|X| 17   | Letter Combinations of a Phone Number                                               |    46.6% | Medium     |
 | | 18   | 4Sum                                                                                |    33.5% | Medium     |
 | | 19   | Remove Nth Node From End of List                                                    |    35.2% | Medium     |
 | | 20   | Valid Parentheses                                                                   |    38.9% | Easy       |
